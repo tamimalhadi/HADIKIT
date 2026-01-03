@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HADI KIT Jersey Hub",
+  "description": "A premium, modern e-commerce platform for high-quality sports jerseys, featuring an AI-powered styling assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
